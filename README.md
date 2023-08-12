@@ -9,7 +9,7 @@
 <br/>
 
 ### If it runs on a computer, I can probably make it
-*(That is if Stack Overflow sticks to their services level agreement of course)👀*
+*(That is if Stack Overflow sticks to their service level agreement of course....)👀*
 
 <br/> <br/>
 
